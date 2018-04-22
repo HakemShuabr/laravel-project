@@ -16,8 +16,8 @@ Route::get('/', function () {
 });
 
 
-Route::get('about', function () {
-    
+Route::get('abuot', function () {
+    return 'about page';
 });
 
-// new commit
+// new commit.
