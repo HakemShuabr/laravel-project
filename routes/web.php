@@ -21,3 +21,7 @@ Route::get('abuot', function () {
 });
 
 // new commit.
+
+Route::get('reporting', function () {
+    return 'Reporting feature';
+});
